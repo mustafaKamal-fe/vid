@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,gBAGE,QAAS,CACT,SAAU,CACV,YACF,CAEA,MACE,SACF","file":"main.8ee93d46.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody,\r\nhtml,\r\n#root {\r\n  margin: 0;\r\n  padding: 0;\r\n  height: 100vh;\r\n}\r\n\r\nvideo {\r\n  width: 50%;\r\n}\r\n"]}
